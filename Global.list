@@ -540,3 +540,5 @@ DOMAIN-SUFFIX,x-art.com,INTERNET
 DOMAIN-SUFFIX,yimg.com,INTERNET
 DOMAIN,api.steampowered.com,INTERNET
 DOMAIN,store.steampowered.com,INTERNET
+# Final Rule
+final,INTERNET
