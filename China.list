@@ -295,6 +295,7 @@ DOMAIN-SUFFIX,zhihu.com,CN
 DOMAIN-SUFFIX,zhimg.com,CN
 DOMAIN-SUFFIX,zhuihd.com,CN
 DOMAIN,download.jetbrains.com,CN
+DOMAIN-SUFFIX,xiaohongshu.com,CN
 
 # GeoIP China
 GEOIP,CN,CN
