@@ -1,9 +1,11 @@
 # China Area Network
+# > 115
+DOMAIN-SUFFIX,115.com,CN
 # > 360
 DOMAIN-SUFFIX,qhres.com,CN
 DOMAIN-SUFFIX,qhimg.com,CN
 # > Akamai
-DOMAIN-SUFFIX,akadns.net,CN
+# DOMAIN-SUFFIX,akadns.net,CN
 # DOMAIN-SUFFIX,akamai.net,CN
 # DOMAIN-SUFFIX,akamaiedge.net,CN
 # DOMAIN-SUFFIX,akamaihd.net,CN
