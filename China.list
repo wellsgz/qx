@@ -31,18 +31,6 @@ DOMAIN-SUFFIX,ykimg.com,CN
 DOMAIN-SUFFIX,youku.com,CN
 DOMAIN-SUFFIX,xiami.com,CN
 DOMAIN-SUFFIX,xiami.net,CN
-# > Apple
-DOMAIN-SUFFIX,aaplimg.com,CN
-DOMAIN-SUFFIX,apple.co,CN
-DOMAIN-SUFFIX,apple.com,CN
-DOMAIN-SUFFIX,appstore.com,CN
-DOMAIN-SUFFIX,cdn-apple.com,CN
-DOMAIN-SUFFIX,crashlytics.com,CN
-DOMAIN-SUFFIX,icloud.com,CN
-DOMAIN-SUFFIX,icloud-content.com,CN
-DOMAIN-SUFFIX,me.com,CN
-DOMAIN-SUFFIX,mzstatic.com,CN
-DOMAIN,www-cdn.icloud.com.akadns.net,CN
 # > Baidu
 DOMAIN-SUFFIX,baidu.com,CN
 DOMAIN-SUFFIX,baidubcr.com,CN
